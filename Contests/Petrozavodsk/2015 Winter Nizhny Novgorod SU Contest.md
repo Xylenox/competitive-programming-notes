@@ -1,5 +1,4 @@
 https://codeforces.com/gym/100960
-
 ### A. Prevent a Galactic War
 #matrix #math #optimization
 Basically turns into solving the inverse of a matrix, but you can do some optimization stuff on like
