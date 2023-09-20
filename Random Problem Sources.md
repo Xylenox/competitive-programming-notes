@@ -1,2 +1,2 @@
-[[Simon Lindholm]]
-[[Zealots]]
+- [[Simon Lindholm]]
+- [[Zealots]]
