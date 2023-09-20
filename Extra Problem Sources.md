@@ -1,0 +1,4 @@
+- [Simon Lindholm]([Problems by Simon Lindholm – Kattis, Kattis](https://open.kattis.com/problem-authors/Simon%20Lindholm))
+- [Zealots]([Contests - Codeforces](https://codeforces.com/group/hosRkEuluH/contests))
+- [IOI]([Group blog - Codeforces](https://ioi.contest.codeforces.com/group/32KGsXgiKA/blog))
+- [AtCoder]([AtCoder](https://atcoder.jp/)) 
