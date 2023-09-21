@@ -1,4 +1,4 @@
-[Dashboard - 2015-2016 Petrozavodsk Winter Training Camp, Nizhny Novgorod SU Contest - Codeforces](https://codeforces.com/gym/100960)
+https://codeforces.com/gym/101208
 
 ### I. Pirate Chest
 
