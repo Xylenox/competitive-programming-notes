@@ -8,9 +8,9 @@ Basically turns into solving the inverse of a matrix, but you can do some optimi
 
 ### E. Cryptographic Argument
 
-#to-upsolve
+#math #troll #upsolved 
 
-Upsolve later
+Super troll, every even pair xor's/adds to $2^k-1$.... Still have to calculate $f(i)$ fast though. The method I found was go through each bit from greatest to least, if it's on flip every other bit. Then, reverse at the end. In order to find the bits that would be on in the sweep, I did change = x^(x>>1), to find all of the bits which are different than their previous bit. Then, xor x by change^((n-1)\*(bitcount(change)%2)), and finally reverse.
 
 ### F. The Jedi Killer
 

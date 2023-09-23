@@ -1,0 +1,1 @@
+On a tree, min on path queries in $O(1)$. To do this, find the minimum spanning tree. Then, do a divide and conquer on the MST, starting with the smallest edge.
