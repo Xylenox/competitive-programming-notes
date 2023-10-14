@@ -6,7 +6,7 @@
 
 ### D. Gem Island
 
-#math #combinatorics #probability #inclusion-exclusion #to-upsolve 
+#math #combinatorics #probability 
 
 The probability that a certain sequence of gem counts is possible, for example, 4, 1, 2. To calculate the probability, first count the number of ways to do it, and then divide by the total number of ways ($\frac{(n+d-1)!}{(n-1)!}$). The number of ways is $(4-1)!*(1-1)!*(2-1)!*\frac{4!}{(4-1)!(1-1)!(2-1)!}$ . The first three factorials are the ways to permute among each person's gems, and the fraction is the number of ways to choose which gems go to which people. However, the factorials cancel out, and so every sequence of counts is equally likely.
 
